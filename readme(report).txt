@@ -16,6 +16,12 @@ Development Notes #4 - Making feedback page, forms are there for visuals since I
 changed input text to textarea.
 
 Final thoughts for this project - I originally wanted to do more with the structure and styling but there was a lot of content 
-and information I wanted to go over, and because of the nature of how much reading is involved the manual style 
+and information I wanted to go over, and because of the nature of how much reading is involved, the manual style 
 I ended up going for made more sense. If I had more time to work on this I would try to flesh out the different areas and 
 elements more so they are more uniform and implement more animations and try to get more fluidity in the page.
+I chose the colors to complement the 8 in Tekken 8 and changed the black to a specific black to fit the palette better. 
+I structured the information so that the reader would be eased into the world of fighting games.
+I used a flexbox to make the clickable image links of my preferred games more uniform.
+I used an unordered list to list out more game suggestions.
+I used a table element to organize the controller information section. 
+Embedded appropriate videos for the different FGC sections.
