@@ -1,0 +1,97 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #0C0F0A;
+    background-color: #FBFF12;
+}
+
+a {
+    color: #FF206E;
+}
+
+h1 {
+    text-align: center;
+    
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.pictekken {
+    border-radius: 4px;
+    width: 325px;
+    margin-top: 13px;
+}
+
+.picsf {
+    border-radius: 4px;
+    width: 300px;
+}
+
+.logopics {
+    display: flex;
+    justify-content: center;
+    column-gap: 70px;
+}
+
+.tablecontrollers {
+    text-align: center;
+}
+
+.videodaigoparry {
+    display:block;
+    margin: 0 auto;
+}
+
+.videosalt {
+    display:block;
+    margin: 0 auto;
+}
+
+.videocommunity {
+    display:block;
+    margin: 0 auto;
+}
+
+.linkfeedback {
+    text-align: center;
+}
+
+.formfeedback {
+    text-align: center;
+}
+
+.textareafeedback {
+    resize: none;
+    width: 700px;
+    height: 400px;
+    background-color: #FBFF12;
+    color: #0C0F0A;
+    border-color: #0C0F0A;
+    border-width: 1px;
+    border-radius: 4px;
+}
+
+
+.submitfeedback {
+    border: none;
+    background: none;
+    color:#0C0F0A;
+    text-decoration: underline;
+}
+
+.submitfeedback:hover {
+    cursor: pointer;
+}
+
+.submitfeedback:active {
+color:#FF206E;
+}
